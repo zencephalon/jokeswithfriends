@@ -1,4 +1,4 @@
-jokeswithfriends
-================
+sinatra-mongo-authentication-example
+====================================
 
-Meet new friends with a similar sense of humor as you! For the Branch hackathon.
+Simple Sinatra authentication example using Mongodb and Bcrypt
